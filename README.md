@@ -43,7 +43,7 @@ Everything is _fully reproducible_ on a laptop in < 10 min.
       <td><strong>2 Cost competitiveness</strong></td>
       <td>manufacturing wages, electricity price </td>
       <td>ILOSTAT + FX (WB)</td>
-      <td>25&nbsp;%</td>
+      <td>15&nbsp;%</td>
     </tr>
     <tr>
       <td rowspan="3"><strong>3 Supply-Chain Readiness</strong></td>
@@ -54,7 +54,7 @@ Everything is _fully reproducible_ on a laptop in < 10 min.
     <tr>
       <td><strong>Industry depth</strong> – Manufacturing % of GDP</td>
       <td>WB WDI</td>
-      <td>15&nbsp;%</td>
+      <td>05&nbsp;%</td>
     </tr>
     <tr>
       <td><strong>Critical-minerals security</strong> – Li, Ni, Co, Mn, Graphite mine output</td>
@@ -65,7 +65,7 @@ Everything is _fully reproducible_ on a laptop in < 10 min.
       <td><strong>4 Risk &amp; stability</strong></td>
       <td>WGI Rule-of-Law &amp; Political Instability + ACLED disorder events</td>
       <td>WB WGI, ACLED</td>
-      <td>05&nbsp;%</td>
+      <td>25&nbsp;%</td>
     </tr>
   </tbody>
 </table>
