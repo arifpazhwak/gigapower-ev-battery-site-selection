@@ -1,9 +1,12 @@
-# 📓 Jupyter notebooks
+# 📔 Jupyter notebooks
 
-| Notebook | Purpose | Typical running time |
-|----------|---------|----------------------|
-| **01_Data_Acquisition_and_Cleaning.ipynb** | End-to-end ETL: raw → harmonised → master analytical dataset. Shows country-name reconciliation, multi-source merges, and final imputations. | ~5 min (mostly I/O) |
-| **02_Analysis_and_Recommendation.ipynb** | Exploratory analysis, PCA pillar scoring, sensitivity testing, clustering, and final gigafactory recommendations. Generates all figures used in the accompanying report. | 2-3 min |
+Interactive Plotly charts are **not** rendered by GitHub’s preview.
+To view the notebooks with full interactivity, open them via nbviewer:
+
+| Notebook | Direct view |
+|----------|-------------|
+| 01 · Data Acquisition & Cleaning | <https://nbviewer.org/urls/raw.githubusercontent.com/arifpazhwak/gigapower-ev-battery-site-selection/207ed1b5a45b69f44aff08c0f91100973da0729b/notebooks/01_Data_Acquisition_and_Cleaning.ipynb> |
+| 02 · Analysis & Recommendation  | <https://nbviewer.org/urls/raw.githubusercontent.com/arifpazhwak/gigapower-ev-battery-site-selection/207ed1b5a45b69f44aff08c0f91100973da0729b/notebooks/02_Analysis_and_Recommendation.ipynb> |
 
 ### 🏃‍♂️ Quick-start
 
