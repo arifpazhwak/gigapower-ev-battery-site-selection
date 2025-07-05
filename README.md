@@ -1,10 +1,7 @@
 # ⚡ Gigapower — EV-Battery Site-Selection Framework
 *Rank 80 countries on six strategic pillars to pinpoint the best place for a **$500 M / 15 GWh** gigafactory that is live by 2029.*
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)  
-[![Built with Plotly](https://img.shields.io/badge/Plotly-5.x-teal)](https://plotly.com/python/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-![Last Update](https://img.shields.io/github/last-commit/arifpazhwak/gigapower-ev-battery-site-selection)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)  [![Built with Plotly](https://img.shields.io/badge/Plotly-5.x-teal)](https://plotly.com/python/)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  ![Last Update](https://img.shields.io/github/last-commit/arifpazhwak/gigapower-ev-battery-site-selection)
 
 ---
 
@@ -38,15 +35,15 @@ Everything is _fully reproducible_ on a laptop in < 10 min.
   <tbody>
     <tr>
       <td><strong>1 Market scale</strong></td>
-      <td>GDP PPP, EV fleet penetration</td>
+      <td>GDP, FDI, population, EV proxy, etc. </td>
       <td>WB WDI</td>
       <td>25&nbsp;%</td>
     </tr>
     <tr>
       <td><strong>2 Cost competitiveness</strong></td>
-      <td>Mean monthly manufacturing wage (USD)</td>
+      <td>manufacturing wages, electricity price </td>
       <td>ILOSTAT + FX (WB)</td>
-      <td>20&nbsp;%</td>
+      <td>25&nbsp;%</td>
     </tr>
     <tr>
       <td rowspan="3"><strong>3 Supply-Chain Readiness</strong></td>
@@ -57,7 +54,7 @@ Everything is _fully reproducible_ on a laptop in < 10 min.
     <tr>
       <td><strong>Industry depth</strong> – Manufacturing % of GDP</td>
       <td>WB WDI</td>
-      <td>10&nbsp;%</td>
+      <td>15&nbsp;%</td>
     </tr>
     <tr>
       <td><strong>Critical-minerals security</strong> – Li, Ni, Co, Mn, Graphite mine output</td>
@@ -68,7 +65,7 @@ Everything is _fully reproducible_ on a laptop in < 10 min.
       <td><strong>4 Risk &amp; stability</strong></td>
       <td>WGI Rule-of-Law &amp; Political Instability + ACLED disorder events</td>
       <td>WB WGI, ACLED</td>
-      <td>15&nbsp;%</td>
+      <td>5&nbsp;%</td>
     </tr>
   </tbody>
 </table>
