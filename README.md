@@ -93,8 +93,8 @@ Scoring steps: log-transform → z-score → positive-direction harmonisation �
 
 | Notebook | Live HTML | Nbviewer | Contents |
 |----------|-----------|----------|----------|
-| **01 Data Acquisition & Cleaning** | `reports/01_Data_Acquisition_and_Cleaning.html` | [▶ View](https://nbviewer.org/github/arifpazhwak/gigapower-ev-battery-site-selection/blob/207ed1b5a45b69f44aff08c0f91100973da0729b/notebooks/01_Data_Acquisition_and_Cleaning.ipynb) | ETL, harmonisation, QA |
-| **02 Analysis & Recommendation**   | `reports/02_Analysis_and_Recommendation.html`   | [▶ View](https://nbviewer.org/github/arifpazhwak/gigapower-ev-battery-site-selection/blob/207ed1b5a45b69f44aff08c0f91100973da0729b/notebooks/02_Analysis_and_Recommendation.ipynb) | PCA, GAI build, clusters, stress-tests |
+| **01 Data Acquisition & Cleaning** | [Open&nbsp;report](https://arifpazhwak.github.io/gigapower-ev-battery-site-selection/01_Data_Acquisition_and_Cleaning.html) | [▶ View ipynb](https://nbviewer.org/github/arifpazhwak/gigapower-ev-battery-site-selection/blob/207ed1b5a45b69f44aff08c0f91100973da0729b/notebooks/01_Data_Acquisition_and_Cleaning.ipynb) | ETL, harmonisation, QA |
+| **02 Analysis & Recommendation**   | [Open&nbsp;report](https://arifpazhwak.github.io/gigapower-ev-battery-site-selection/02_Analysis_and_Recommendation.html)   | [▶ View ipynb](https://nbviewer.org/github/arifpazhwak/gigapower-ev-battery-site-selection/blob/207ed1b5a45b69f44aff08c0f91100973da0729b/notebooks/02_Analysis_and_Recommendation.ipynb) | PCA, GAI build, clusters, stress-tests |
 
 *Interactive slider:* the weight-tuning sandbox works only inside Jupyter (requires **ipywidgets**). The exported HTML shows the last slider state.
 
