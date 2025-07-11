@@ -93,7 +93,7 @@ Scoring steps: log-transform → z-score → positive-direction harmonisation �
 
 | Asset | Live view | Nbviewer / Alt | Contents |
 |-------|-----------|----------------|----------|
-| **Executive Summary (PDF)** | [Open&nbsp;deck](https://raw.githubusercontent.com/arifpazhwak/gigapower-ev-battery-site-selection/main/reports/Executive_Summary_SlideDeck.pdf) | – | 10-slide board package |
+| **Executive Summary (PDF)** | [Open&nbsp;deck](https://arifpazhwak.github.io/gigapower-ev-battery-site-selection/Executive_Summary_SlideDeck.pdf) | – | 10-slide board package |
 | **01 Data Acquisition & Cleaning** | [Open&nbsp;HTML](https://arifpazhwak.github.io/gigapower-ev-battery-site-selection/01_Data_Acquisition_and_Cleaning.html) | [▶ ipynb](https://nbviewer.org/github/arifpazhwak/gigapower-ev-battery-site-selection/blob/207ed1b5a45b69f44aff08c0f91100973da0729b/notebooks/01_Data_Acquisition_and_Cleaning.ipynb) | ETL, harmonisation, QA |
 | **02 Analysis & Recommendation** | [Open&nbsp;HTML](https://arifpazhwak.github.io/gigapower-ev-battery-site-selection/02_Analysis_and_Recommendation.html) | [▶ ipynb](https://nbviewer.org/github/arifpazhwak/gigapower-ev-battery-site-selection/blob/207ed1b5a45b69f44aff08c0f91100973da0729b/notebooks/02_Analysis_and_Recommendation.ipynb) | PCA, GAI build, clusters, stress-tests |
 
